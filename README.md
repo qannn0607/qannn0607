@@ -1,6 +1,6 @@
-# Halo semuanya, Saya Qannn! 👋
+# Hi there, I'm Qannn! 👋
 
-Saya adalah seorang pelajar di **SMK N 5 Telkom** jurusan **Rekayasa Perangkat Lunak (RPL)**. Saya memiliki ketertarikan yang besar di dunia Full-Stack Web Development dan selalu bersemangat untuk membangun aplikasi web yang interaktif, modern, dan fungsional.
+I am a student majoring in **Software Engineering** (Rekayasa Perangkat Lunak - RPL) at **SMK N 5 Telkom**. I have a huge passion for Full-Stack Web Development and love creating interactive, modern, and functional web applications.
 
 ---
 
@@ -11,19 +11,20 @@ Saya adalah seorang pelajar di **SMK N 5 Telkom** jurusan **Rekayasa Perangkat L
 ### 🛠️ Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 🚀 Tentang Saya & Proyek Saat Ini:
-- 🏫 **Pendidikan:** Pelajar Jurusan Rekayasa Perangkat Lunak (RPL) di SMK N 5 Telkom.
-- 💻 **Lingkungan Kerja:** Menggunakan dual-boot Windows 11 dan Ubuntu untuk kebutuhan development sehari-hari.
-- ⚡ **Fokus Sekarang:** Sedang aktif mengembangkan aplikasi berbasis web (seperti web galeri sekolah, absensi, atau sistem inventaris) menggunakan Laravel.
+### 🚀 About Me & Current Focus:
+- 🏫 **Education:** Software Engineering Student at SMK N 5 Telkom.
+- 💻 **Environment:** Using a dual-boot setup with Windows 11 and Ubuntu for my daily development workflow.
+- ⚡ **Current Focus:** Actively building web-based applications (such as school gallery systems, attendance systems, or inventory management) powered by Laravel.
 - 📫 **GitHub:** [@qannn0607](https://github.com/qannn0607)
 
 ---
 
-### 📊 Statistik GitHub:
-![Statistik Qannn](https://github-readme-stats.vercel.app/api?username=qannn0607&show_icons=true&theme=tokyonight&count_private=true)
+### 📊 GitHub Stats:
+![Qannn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qannn0607&show_icons=true&theme=tokyonight&count_private=true)
