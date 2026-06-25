@@ -1,6 +1,6 @@
 # Hi there, I'm Qannn! 👋
 
-I am a student majoring in **Software Engineering** (Rekayasa Perangkat Lunak - RPL) at **SMK N 5 Telkom**. I have a huge passion for Full-Stack Web Development and love creating interactive, modern, and functional web applications.
+I am a student at **SMK N 5 Telkom**. I have a huge passion for **Web Development** and love creating interactive, modern, and functional web applications as a **Web Developer**.
 
 ---
 
@@ -21,7 +21,7 @@ I am a student majoring in **Software Engineering** (Rekayasa Perangkat Lunak - 
 ---
 
 ### 🚀 About Me & Current Focus:
-- 🏫 **Education:** Software Engineering Student at SMK N 5 Telkom.
+- 🏫 **Education:** Student at SMK N 5 Telkom.
 - 💻 **Environment:** Using a dual-boot setup with Windows 11 and Ubuntu for my daily development workflow.
 - ⚡ **Current Focus:** Actively building web-based applications (such as school gallery systems, attendance systems, or inventory management) powered by Laravel.
 - 📫 **GitHub:** [@qannn0607](https://github.com/qannn0607)
