@@ -17,6 +17,7 @@ I am a student at **SMK N 5 Telkom**. I have a huge passion for **Web Developmen
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-transparent?style=for-the-badge&logo=phpmyadmin&logoColor=6C78AF)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 ---
 
