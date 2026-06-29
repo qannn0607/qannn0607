@@ -19,7 +19,12 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,php,laravel,codeigniter,mysql&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,php,laravel,mysql&theme=dark&perline=6" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
 
 </div>
 
