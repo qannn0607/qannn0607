@@ -20,7 +20,7 @@
 <div align="center">
 
 <!-- Ikon Utama (SkillIcons) -->
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,php,laravel,codeigniter,mysql&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,php,laravel,mysql&theme=dark&perline=7" />
 
 <br><br>
 
