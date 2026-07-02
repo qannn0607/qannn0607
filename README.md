@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=windows,linux,vscode,git,github&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=windows,linux,vscode,github&theme=dark&perline=5" />
 
 </div>
 
