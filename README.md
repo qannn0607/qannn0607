@@ -49,16 +49,16 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center" valign="top">
-        <img height="165" src="https://github-readme-stats.vercel.app/api?username=qannn0607&show_icons=true&theme=tokyonight&count_private=true&border_radius=12&hide_border=true" />
+        <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&count_private=true&border_radius=12&hide_border=true" />
       </td>
       <td align="center" valign="top">
-        <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qannn0607&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+        <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2" valign="top">
         <br>
-        <img src="https://streak-stats.demolab.com?user=qannn0607&theme=tokyonight&hide_border=true&border_radius=12" />
+        <img src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=tokyonight&hide_border=true&border_radius=12" />
       </td>
     </tr>
   </table>
