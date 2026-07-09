@@ -9,7 +9,7 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Web+Developer+%F0%9F%92%BB;Laravel+%26+PHP+Enthusiast+%E2%9A%A1;CodeIgniter+Developer+%F0%9F%94%A5;Always+learning%2C+always+building+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Web+Developer+%F0%9F%92%BB;Laravel+%26+PHP+Enthusiast+%E2%9A%A1;CodeIgniter%F0%9F%94%A5;Always+learning%2C+always+building+%F0%9F%9A%80)
 
 </div>
 
