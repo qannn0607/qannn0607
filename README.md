@@ -4,8 +4,8 @@
 
 ---
 
-<!-- Animasi Screen Coding Aesthetic (Aktif & Stabil) -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5pZXdzNWw3NDRleWV2cGRpZHBycWJscDJ4bzRsc3J3dmExOHM4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4v6/giphy.gif" width="400" alt="Coding Animation" />
+<!-- GIF Screen Coding via GitHub Raw Assets -->
+<img src="https://raw.githubusercontent.com/gist/assets/3848914/programmer.gif" width="380" alt="Coding Animation" />
 
 ### 👋 Hey, I'm **Qannn**
 ##### Passionate about crafting modern, interactive, and functional web experiences.
