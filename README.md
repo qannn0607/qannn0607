@@ -4,8 +4,8 @@
 
 ---
 
-<!-- Animasi Screen Coding Aesthetic -->
-<img src="https://myoctocat.com/assets/images/octocat.gif" width="400" alt="Coding Screen Animation" />
+<!-- Animasi Screen Coding Aesthetic (Aktif & Stabil) -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5pZXdzNWw3NDRleWV2cGRpZHBycWJscDJ4bzRsc3J3dmExOHM4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4v6/giphy.gif" width="400" alt="Coding Animation" />
 
 ### 👋 Hey, I'm **Qannn**
 ##### Passionate about crafting modern, interactive, and functional web experiences.
@@ -22,12 +22,10 @@
 
 <div align="center">
 
-<!-- Ikon Utama (SkillIcons) -->
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,mysql&theme=dark&perline=7" />
 
 <br><br>
 
-<!-- Database & Tools Pendukung (Badges) -->
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
 
