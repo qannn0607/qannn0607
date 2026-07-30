@@ -52,13 +52,15 @@
 
 <div align="center">
 
-<!-- GitHub Stats & Top Langs (DIREPARASI & TEMA DIUBAH KE RADICAL SUPAYA GELAP) -->
-<img src="https://github-readme-stats.vercel.app/api?username=qannn0607&show_icons=true&theme=radical&count_private=true&border_radius=12&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qannn0607&layout=compact&theme=radical&hide_border=true&border_radius=12" />
+<!-- GitHub Stats - PAKE FORK STABIL DENGAN WARNA MANUAL (DARK) -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=qannn0607&show_icons=true&count_private=true&border_radius=12&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=0891b2&text_color=ffffff&rank_icon_color=0284c7" />
+
+<!-- Top Langs - PAKE FORK STABIL DENGAN WARNA MANUAL (DARK) -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qannn0607&layout=compact&hide_border=true&border_radius=12&bg_color=0f172a&title_color=38bdf8&text_color=ffffff" />
 
 <br><br>
 
-<!-- Fixed GitHub Streak Stats -->
+<!-- Fixed GitHub Streak Stats (TETAP PAKAI ENDPOINT STREAK YANG STABIL) -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=qannn0607&theme=dark&background=0F172A&border=38BDF8&stroke=38BDF8&ring=0284C7&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&sideLabels=94A3B8&dates=94A3B8&hide_border=true" />
 
 </div>
@@ -70,19 +72,8 @@
 
 <br>
 
-<!-- Random Developer Quote Card -->
-<img src="https://readme-daily-quotes.vercel.app/api?theme=radical&card_width=500" />
-
-<br><br>
-
-<!-- Profile Visitor Counter & Back to Top -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=qannn0607&label=Profile%20Views&color=0284c7&style=for-the-badge" alt="Visitor Count" />
-</p>
-
-<a href="#top">
-  <img src="https://img.shields.io/badge/Back%20to%20Top-%E2%80%90%20%E2%86%91%20%E2%80%90-0891b2?style=flat-square" />
-</a>
+<!-- Random Developer Quote Card (PAKAI WARNA MANUAL DARK) -->
+<img src="https://readme-daily-quotes.vercel.app/api?card_width=500&bg_color=0f172a&text_color=ffffff&author_color=38bdf8" />
 
 <br><br>
 
