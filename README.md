@@ -52,9 +52,9 @@
 
 <div align="center">
 
-<!-- GitHub Stats & Top Langs -->
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=qannn0607&show_icons=true&theme=cyan&count_private=true&border_radius=12&hide_border=true" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qannn0607&layout=compact&theme=cyan&hide_border=true&border_radius=12" />
+<!-- GitHub Stats & Top Langs (DIREPARASI & TEMA DIUBAH KE RADICAL SUPAYA GELAP) -->
+<img src="https://github-readme-stats.vercel.app/api?username=qannn0607&show_icons=true&theme=radical&count_private=true&border_radius=12&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qannn0607&layout=compact&theme=radical&hide_border=true&border_radius=12" />
 
 <br><br>
 
@@ -71,7 +71,7 @@
 <br>
 
 <!-- Random Developer Quote Card -->
-<img src="https://readme-daily-quotes.vercel.app/api?theme=cyan&card_width=500" />
+<img src="https://readme-daily-quotes.vercel.app/api?theme=radical&card_width=500" />
 
 <br><br>
 
