@@ -58,11 +58,6 @@
 <!-- Top Langs - PAKE FORK STABIL DENGAN WARNA MANUAL (DARK) -->
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qannn0607&layout=compact&hide_border=true&border_radius=12&bg_color=0f172a&title_color=38bdf8&text_color=ffffff" />
 
-<br><br>
-
-<!-- Fixed GitHub Streak Stats (TETAP PAKAI ENDPOINT STREAK YANG STABIL) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qannn0607&theme=dark&background=0F172A&border=38BDF8&stroke=38BDF8&ring=0284C7&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&sideLabels=94A3B8&dates=94A3B8&hide_border=true" />
-
 </div>
 
 ---
