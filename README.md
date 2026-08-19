@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,mysql&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql&theme=dark&perline=7" />
 
 <br><br>
 
