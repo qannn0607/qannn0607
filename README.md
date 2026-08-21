@@ -23,22 +23,24 @@
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<!-- Main Tech Stack Icons -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,php,laravel,mysql&theme=dark&perline=9" />
+<!-- Icon Stack Utama dengan Tema Dark Sleek -->
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql&theme=dark&perline=6" />
 
 <br><br>
 
-<!-- Specialized Frameworks & Tools Badges -->
+<!-- Custom Badges dengan Accent Border & Glow Color -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
 
 </div>
 
@@ -48,7 +50,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=windows,ubuntu,vscode,git,github,postman&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=windows,linux,vscode,github&theme=dark&perline=5" />
 
 </div>
 
@@ -58,10 +60,10 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats - PAKE FORK STABIL DENGAN WARNA MANUAL (DARK) -->
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=qannn0607&show_icons=true&count_private=true&border_radius=12&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=0891b2&text_color=ffffff&rank_icon_color=0284c7" />
 
-<!-- Top Langs -->
+<!-- Top Langs - PAKE FORK STABIL DENGAN WARNA MANUAL (DARK) -->
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qannn0607&layout=compact&hide_border=true&border_radius=12&bg_color=0f172a&title_color=38bdf8&text_color=ffffff" />
 
 </div>
@@ -73,7 +75,7 @@
 
 <br>
 
-<!-- Random Developer Quote Card -->
+<!-- Random Developer Quote Card (PAKAI WARNA MANUAL DARK) -->
 <img src="https://readme-daily-quotes.vercel.app/api?card_width=500&bg_color=0f172a&text_color=ffffff&author_color=38bdf8" />
 
 <br><br>
