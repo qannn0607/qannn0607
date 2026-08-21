@@ -27,11 +27,6 @@
 
 <div align="center">
 
-<!-- Icon Stack Utama dengan Tema Dark Sleek -->
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql&theme=dark&perline=6" />
-
-<br><br>
-
 <!-- Custom Badges dengan Accent Border & Glow Color -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
