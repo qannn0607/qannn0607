@@ -28,7 +28,7 @@
 <div align="center">
 
 <!-- Tech Stack dengan tema skillicons (seperti Environment & Tools) -->
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,go&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,mysql,go&theme=dark&perline=8" />
 
 </div>
 
